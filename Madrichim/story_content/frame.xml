@@ -1575,7 +1575,7 @@
           <links>
             <slidelink slideid="_player.6aFjn4gMDn2.5uloqRKaEsj" displaytext="מסך ראשי" expand="false" type="slide" />
             <slidelink slideid="_player.6aFjn4gMDn2.6qKT7AH6YF4" displaytext="מסך פתיחה" expand="false" type="slide" />
-            <slidelink slideid="_player.6aFjn4gMDn2.5X87mHEM3WL" displaytext="מסך פתיחה" expand="false" type="slide" />
+            <slidelink slideid="_player.6aFjn4gMDn2.5X87mHEM3WL" displaytext="תפריט קומות" expand="false" type="slide" />
             <slidelink slideid="_player.6aFjn4gMDn2.67gmv68xX0R" displaytext="הזדהות" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1600,6 +1600,22 @@
             <slidelink slideid="_player.5tTczXapEvp.5rNN8xsLAcE" displaytext="האשכנזי" expand="false" type="slide" />
             <slidelink slideid="_player.5tTczXapEvp.5c6ahvwHidT" displaytext="אלטנוישול" expand="false" type="slide" />
             <slidelink slideid="_player.5tTczXapEvp.5t06oEtdlKw" displaytext="חלב 2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6MWFyJDTF3V" displaytext="שאלות" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MWFyJDTF3V.6QrKM2peLe1" displaytext="חאלב 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.6p0reKn8CJz" displaytext="חלאב 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.6IFCemRusim" displaytext="שבטים 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.6WNYA3LmTpZ" displaytext="שבטים 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.6Jx3JO0PYLp" displaytext="סידורים 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.5Y8wsuGqi55" displaytext="סידורים 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.6X1bUzGACR3" displaytext="מצרים 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.6p5GTif9adc" displaytext="מצרים 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.5ybkUH0sP1E" displaytext="קרקוב 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.6ipmzow5WId" displaytext="קרקוב 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.61nhZnvJrmD" displaytext="ספרים 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6MWFyJDTF3V.5b2J2WHfb90" displaytext="ספרים 2" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
